@@ -6,7 +6,8 @@ This project is a web application that visualizes and predicts air quality (AQI)
 
 The backend of this project is built on AWS, utilizing a serverless architecture to handle data processing, storage, and API requests. The following diagram illustrates the architecture:
 
-![AWS Architecture](https://i.imgur.com/5u7z1AY.png)
+<img width="538" height="666" alt="image" src="https://github.com/user-attachments/assets/6233f9c6-7400-43a2-98a7-87ef3d2e0cb0" />
+
 
 ### Key Components:
 
